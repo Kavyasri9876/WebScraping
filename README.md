@@ -5,10 +5,11 @@ This project involves scraping election data from a website, analyzing it using 
 ## Project Structure
 
 - `web_scraping_in_python/`
+  - `elections_web_scraping.ipynb`: Jupyter notebook containing the Python code for web scraping, data analysis, and visualization.
   - `donut_chart.png`: Visualization of seat distribution among top parties.
   - `election_results.csv`: CSV file containing detailed election results.
   - `party_seats.png`: Visualization showing distribution of seats per party.
-  - `web_scraping_elections.ipynb`: Jupyter notebook containing the Python code for web scraping, data analysis, and visualization.
+  
 
 ## Usage
 
